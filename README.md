@@ -60,4 +60,10 @@ O app consulta a **BrasilAPI (FIPE)** para obter marcas e modelos de veículos. 
 
 ## 📸 Capturas de tela
 
-Capturas pendentes no repositório: cadastro do veículo, formulário de abastecimento, lista de abastecimentos, dashboard e confirmação de exclusão.
+| Tela inicial | Seleção de marca | Seleção de modelo |
+| --- | --- | --- |
+| <img src="screenshots/1-tela-inicial.jpeg" alt="Tela inicial do aplicativo" width="240"> | <img src="screenshots/2-lista-de-marcas.jpeg" alt="Lista de marcas de veículos" width="240"> | <img src="screenshots/3-lista-de-modelos.jpeg" alt="Lista de modelos de veículos" width="240"> |
+
+| Lista de abastecimentos vazia | Lista com dois abastecimentos | Dashboard |
+| --- | --- | --- |
+| <img src="screenshots/4-lista-abastecimento-vazia.jpeg" alt="Lista de abastecimentos sem registros" width="240"> | <img src="screenshots/5-lista-abastecimento-com-dois-registros.jpeg" alt="Lista de abastecimentos com dois registros" width="240"> | <img src="screenshots/5-dashboard.jpeg" alt="Dashboard com gráficos de abastecimento" width="240"> |
